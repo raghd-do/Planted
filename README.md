@@ -1,3 +1,3 @@
-# Planted
+# Planting
 
 made with Love :)
